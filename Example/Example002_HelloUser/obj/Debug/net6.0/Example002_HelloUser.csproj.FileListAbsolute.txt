@@ -1,0 +1,15 @@
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/bin/Debug/net6.0/ref/Example002_HelloUser.dll
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/sergeykvashnin/Desktop/Lessons/Example/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
